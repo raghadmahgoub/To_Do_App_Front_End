@@ -1,12 +1,15 @@
  .name{
-  color:blue;
+  color:#ffffff;
  }
  body{
-  background-color:#8e9196
+  background-color:#c92471
  }
  li{
   list-style:none;
  }
  .break{
  display:block;
+ }
+ ul{
+  border: 1px solid red;
  }
