@@ -1,8 +1,8 @@
  .name{
-  color:#ffffff;
+  color:blue;
  }
  body{
-  background-color:#c92471
+  background-color:#e2e2e2
  }
  li{
   list-style:none;
@@ -11,5 +11,5 @@
  display:block;
  }
  ul{
-  border: 1px solid red;
+  border: 1px solid black;
  }
